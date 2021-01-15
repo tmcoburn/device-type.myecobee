@@ -17,6 +17,7 @@
  *  For installation, please refer to readme file under
  *     https://github.com/yracine/device-type.myecobee/blob/master/smartapps/ecobeeRemoteSensor.md
  *
+ *
  */
 definition(
 	name: "${get_APP_NAME()}",
